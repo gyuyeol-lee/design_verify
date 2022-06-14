@@ -1,4 +1,4 @@
-기능: 32bit data를 16개까지 write/read 할 수 있음
+function: It can execute read, write operation with 32bit by 16-depth.
 
 input  : clk, rstn, data, valid
 output : full
