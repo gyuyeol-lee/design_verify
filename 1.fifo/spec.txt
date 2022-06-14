@@ -1,0 +1,4 @@
+기능: 32bit data를 16개까지 write/read 할 수 있음
+
+input  : clk, rstn, data, valid
+output : full
